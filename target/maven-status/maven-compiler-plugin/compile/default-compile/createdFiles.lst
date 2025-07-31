@@ -1,0 +1,5 @@
+server\UrlShortenerHandler.class
+server\RedirectHandler.class
+server\H2Database.class
+server\Main.class
+server\UrlRepository.class
